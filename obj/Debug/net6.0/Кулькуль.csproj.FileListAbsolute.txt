@@ -1,0 +1,15 @@
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\obj\Debug\net6.0\Кулькуль.csproj.AssemblyReference.cache
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\obj\Debug\net6.0\Кулькуль.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\obj\Debug\net6.0\Кулькуль.AssemblyInfoInputs.cache
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\obj\Debug\net6.0\Кулькуль.AssemblyInfo.cs
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\obj\Debug\net6.0\Кулькуль.csproj.CoreCompileInputs.cache
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\bin\Debug\net6.0\Кулькуль.exe
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\bin\Debug\net6.0\Кулькуль.deps.json
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\bin\Debug\net6.0\Кулькуль.runtimeconfig.json
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\bin\Debug\net6.0\Кулькуль.dll
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\bin\Debug\net6.0\Кулькуль.pdb
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\obj\Debug\net6.0\Кулькуль.dll
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\obj\Debug\net6.0\refint\Кулькуль.dll
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\obj\Debug\net6.0\Кулькуль.pdb
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\obj\Debug\net6.0\Кулькуль.genruntimeconfig.cache
+C:\Users\alena\source\repos\Кулькуль\Кулькуль\obj\Debug\net6.0\ref\Кулькуль.dll
